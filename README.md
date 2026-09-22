@@ -1,2 +1,2 @@
-# ai-portfolio
-My first GitHub repository for AI projects.
+## אודות הפרויקט
+ברוכים הבאים לתיק העבודות שלי! כאן אציג פרויקטים וסוכני AI שאפתח.
