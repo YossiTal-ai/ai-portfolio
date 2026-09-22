@@ -1,2 +1,2 @@
-## אודות הפרויקט
-ברוכים הבאים לתיק העבודות שלי! כאן אציג פרויקטים וסוכני AI שאפתח.
+## About This Portfolio
+Welcome to my AI portfolio! Here I share my projects, AI agents, and automations.
